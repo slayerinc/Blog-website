@@ -3,3 +3,6 @@ Blog website made by me for fun/portfolio, made with Html, CSS, JavaScript and N
 
 # Creator
 Slayerinc
+
+# Support 
+Star my repository and follow me. to support me! :D
