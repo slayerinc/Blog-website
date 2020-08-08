@@ -1,0 +1,62 @@
+/* Header */
+header {
+    min-height: 57.50px;
+    max-height: 57.50px;
+    background: darkcyan;
+    color: white;
+    padding: 15px;
+}
+
+/* Title */
+header span {
+    float: left;
+}
+
+header span a {
+    color: white;
+    text-decoration: none;
+}
+
+header span a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+/* Navagation */
+header ul {
+    display: inline-flex;
+    overflow: hidden;
+    float: right;
+}
+
+header ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 15px;
+}
+
+header ul li a {
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+header ul li a:hover {
+    color: orange;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+/* Main */
+main {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/* Footer */
+footer {
+    color: white;
+    background: #404040;
+    padding: 15px;
+    text-align: center;
+}

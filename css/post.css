@@ -1,0 +1,37 @@
+/* post container */
+.posts {
+    width: 75%;
+    padding: 5px;
+}
+
+/* post box */
+.post {
+    box-shadow: 0px 0px 5px lightgray;
+    border: solid 1px lightgray;
+    border-radius: 15px;
+    padding: 15px;
+    transition: 0.25s;
+    margin-bottom: 15px;
+}
+
+.post:hover {
+    box-shadow: 0px 0px 10px gray;
+    transition: 0.25s;
+}
+
+/* post title */
+.post .title {
+    font-weight: 500;
+    font-size: 24px;
+    padding-bottom: 12.5px;
+}
+
+.post .undertitle {
+    color: gray;
+}
+
+/* post footer */
+.post .footer {
+    font-weight: 500;
+    color: gray;
+}
