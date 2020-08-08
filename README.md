@@ -1,5 +1,6 @@
 # Description
-Blog website made by me for fun/portfolio, made with Html, CSS, JavaScript and Node.js, coming soon
+Blog website made by me for fun/portfolio, made with Html, CSS, JavaScript and Node.js, 
+full compeletion coming soon.
 
 # Creator
 Made by Slayerinc
